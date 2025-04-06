@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/watermelon-sugar.git/static/css/main.54fd848b.css",
+    "main.js": "/watermelon-sugar.git/static/js/main.350ec94c.js",
+    "static/js/453.f9561ed9.chunk.js": "/watermelon-sugar.git/static/js/453.f9561ed9.chunk.js",
+    "index.html": "/watermelon-sugar.git/index.html",
+    "main.54fd848b.css.map": "/watermelon-sugar.git/static/css/main.54fd848b.css.map",
+    "main.350ec94c.js.map": "/watermelon-sugar.git/static/js/main.350ec94c.js.map",
+    "453.f9561ed9.chunk.js.map": "/watermelon-sugar.git/static/js/453.f9561ed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fd848b.css",
+    "static/js/main.350ec94c.js"
+  ]
+}
