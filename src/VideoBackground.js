@@ -98,7 +98,7 @@ const VideoBackground = () => {
     <>
       <nav ref={navbarRef} className="navbar">
         <div className="navbar-logo">
-          <img src="/W_Logo.png" alt="Watermelon Logo" className="logo-image" />
+          <img src={`${process.env.PUBLIC_URL}/W_Logo.png`} alt="Watermelon Logo" className="logo-image" />
           WATERMELON-SUGAR
         </div>
         <ul className="navbar-links">
@@ -112,7 +112,7 @@ const VideoBackground = () => {
 
       <div id="container">
         <video ref={videoRef} id="carousel-video" className="video-background" muted loop>
-          <source src="Watermelon.mp4" type="video/mp4" />
+          <source src={`${process.env.PUBLIC_URL}/Watermelon.mp4`} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

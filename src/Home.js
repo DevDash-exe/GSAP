@@ -21,7 +21,7 @@ const Home = () => {
       <section className="row">
         <div className="col-md-4 mb-4">
           <div className="card card-sm h-100">
-            <img src="/glass-with-juice.jpg" className="card-img-top img-fluid" alt="Watermelons" />
+            <img src={`${process.env.PUBLIC_URL}/glass-with-juice.jpg`} className="card-img-top img-fluid" alt="Watermelons" />
             <div className="card-body">
 
               {/* front side of the card  */}
@@ -67,7 +67,7 @@ const Home = () => {
                 <li>straight from farm.</li>
               </ul>
                 <div class="card__content">
-                  <img src="/woman-eating-watermelon.jpg" className="card-img" alt="Watermelons"></img>
+                  <img src={`${process.env.PUBLIC_URL}/woman-eating-watermelon.jpg`} className="card-img" alt="Watermelons"></img>
                   <br></br>
                   <h5 className='incard-text'>Enjoy the freshness in every bite</h5>
                 </div>
@@ -78,7 +78,7 @@ const Home = () => {
         </div>
         <div className="col-md-4 mb-4">
           <div className="card card-sm h-100">
-            <img src="/watermelon-fruit.jpg" className="card-img-top img-fluid" alt="Watermelon Slice" />
+            <img src={`${process.env.PUBLIC_URL}/watermelon-fruit.jpg`} className="card-img-top img-fluid" alt="Watermelon Slice" />
             <div className="card-body">
 
                 {/* front side of the card  */}

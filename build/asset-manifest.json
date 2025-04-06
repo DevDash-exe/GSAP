@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/watermelon-sugar.git/static/css/main.54fd848b.css",
-    "main.js": "/watermelon-sugar.git/static/js/main.350ec94c.js",
-    "static/js/453.f9561ed9.chunk.js": "/watermelon-sugar.git/static/js/453.f9561ed9.chunk.js",
-    "index.html": "/watermelon-sugar.git/index.html",
-    "main.54fd848b.css.map": "/watermelon-sugar.git/static/css/main.54fd848b.css.map",
-    "main.350ec94c.js.map": "/watermelon-sugar.git/static/js/main.350ec94c.js.map",
-    "453.f9561ed9.chunk.js.map": "/watermelon-sugar.git/static/js/453.f9561ed9.chunk.js.map"
+    "main.css": "/GSAP/static/css/main.54fd848b.css",
+    "main.js": "/GSAP/static/js/main.3e33d439.js",
+    "static/js/453.f9561ed9.chunk.js": "/GSAP/static/js/453.f9561ed9.chunk.js",
+    "index.html": "/GSAP/index.html",
+    "main.54fd848b.css.map": "/GSAP/static/css/main.54fd848b.css.map",
+    "main.3e33d439.js.map": "/GSAP/static/js/main.3e33d439.js.map",
+    "453.f9561ed9.chunk.js.map": "/GSAP/static/js/453.f9561ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54fd848b.css",
-    "static/js/main.350ec94c.js"
+    "static/js/main.3e33d439.js"
   ]
 }
